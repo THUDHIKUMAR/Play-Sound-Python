@@ -1,0 +1,5 @@
+pip install playsound
+
+import playsound
+filename = "C:\\Users\\Abcom\\Downloads\\Thalapathy_Kacheri.mp3"
+playsound.playsound(filename)
